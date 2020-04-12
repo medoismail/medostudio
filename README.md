@@ -1,2 +1,1 @@
-
-medostudio.github.io
+medoismail.github.io
